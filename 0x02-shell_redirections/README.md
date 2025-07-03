@@ -1,1 +1,2 @@
-redirections and filters
+shell basics
+
